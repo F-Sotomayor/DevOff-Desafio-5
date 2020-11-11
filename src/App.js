@@ -44,7 +44,7 @@ function App() {
   }, [page]);
 
   return (
-    <ChakraProvider theme={theme}>
+    <ChakraProvider theme={theme} resetCSS>
       <Container
         overflowX="hidden"
         padding={4}
