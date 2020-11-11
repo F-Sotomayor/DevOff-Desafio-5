@@ -1,0 +1,24 @@
+
+/* TEAM */
+
+                            
+Dev: Facundo Sotomayor.
+
+                            
+Site: facundosotomayor95@hotmail.com
+
+                            
+Twitter: @fackete.
+
+                            
+Location: Buenos Aires, Argentina.
+
+
+                            
+/* SITE */
+
+                            
+Last update: 2020/11/11 
+
+                            
+Software: React + Chakra UI.
