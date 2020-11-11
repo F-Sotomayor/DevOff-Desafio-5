@@ -76,9 +76,13 @@ function App() {
             );
           })}
         </SimpleGrid>
-        <Box marginTop={4}>
+        <Box
+          marginTop={4}
+          display="flex"
+          justifyContent="center"
+          alignItems="center"
+        >
           <Button
-            marginLeft={24}
             colorScheme="primary"
             isLoading={isLoading}
             onClick={() => setPage(page + 1)}
